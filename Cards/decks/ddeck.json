@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Shield Bearer",
+    "attack": 2,
+    "defense": 7,
+    "rarity": "Common",
+    "id": 21
+  },
+  {
+    "name": "Mystic Barrier",
+    "attack": 1,
+    "defense": 9,
+    "rarity": "Rare",
+    "id": 22
+  },
+  {
+    "name": "Healing Spirit",
+    "attack": 0,
+    "defense": 7,
+    "rarity": "Common",
+    "id": 23
+  },
+  {
+    "name": "Ironwood Sentinel",
+    "attack": 3,
+    "defense": 8,
+    "rarity": "Rare",
+    "id": 24
+  },
+  {
+    "name": "Stonehide Tortoise",
+    "attack": 1,
+    "defense": 9,
+    "rarity": "Rare",
+    "id": 25
+  },
+  {
+    "name": "Frostweaver",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "Common",
+    "id": 26
+  },
+  {
+    "name": "Aurora Priest",
+    "attack": 1,
+    "defense": 5,
+    "rarity": "Rare",
+    "id": 27
+  },
+  {
+    "name": "Knight Guardian",
+    "attack": 4,
+    "defense": 6,
+    "rarity": "Common",
+    "id": 28
+  },
+  {
+    "name": "Sanctum Watcher",
+    "attack": 2,
+    "defense": 7,
+    "rarity": "Rare",
+    "id": 29
+  },
+  {
+    "name": "Warden of the Vale",
+    "attack": 3,
+    "defense": 9,
+    "rarity": "Legendary",
+    "id": 30
+  }
+]
+

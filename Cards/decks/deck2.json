@@ -1,0 +1,72 @@
+ [
+{
+    "name": "Sea Serpent",
+    "attack": 8,
+    "defense": 5,
+    "rarity": "legendary",
+    "id": 41
+  },
+  {
+    "name": "Warlock",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 42
+  },
+  {
+    "name": "Archer",
+    "attack": 3,
+    "defense": 6,
+    "rarity": "common",
+    "id": 43
+  },
+  {
+    "name": "Wolf",
+    "attack": 4,
+    "defense": 2,
+    "rarity": "common",
+    "id": 44
+  },
+  {
+    "name": "Giant",
+    "attack": 8,
+    "defense": 6,
+    "rarity": "legendary",
+    "id": 45
+  },
+  {
+    "name": "Water Sprite",
+    "attack": 3,
+    "defense": 1,
+    "rarity": "rare",
+    "id": 46
+  },
+  {
+    "name": "WereBear",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "common",
+    "id": 47
+  },
+  {
+    "name": "Fire Sprite",
+    "attack": 3,
+    "defense": 1,
+    "rarity": "common",
+    "id": 48
+  },
+  {
+    "name": "Knight Commander",
+    "attack": 7,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 49
+  },
+  {
+    "name": "Healing Spirit",
+    "attack": 0,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 50
+  }
+ ]

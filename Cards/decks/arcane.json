@@ -1,0 +1,73 @@
+[
+{
+    "name": "Rusted Revolver",
+    "attack": 3,
+    "defense": 4,
+    "rarity": "common",
+    "id": 11
+  },
+  {
+    "name": "Lantern Wraith",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "common",
+    "id": 12
+  },
+  {
+    "name": "Graveyard Gambler",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 13
+  },
+  {
+    "name": "Tumbleweed Tactician",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 14
+  },
+  {
+    "name": "Arcane Armadillo",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 15
+  },
+  {
+    "name": "Hexbrand Marshal",
+    "attack": 6,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 16
+  },
+  {
+    "name": "Blood Moon Bandit",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 17
+  },
+  {
+    "name": "Ghoulsmith",
+    "attack": 5,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 18
+  },
+  {
+    "name": "Obsidian Outrider",
+    "attack": 4,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 19
+  },
+  {
+    "name": "Eclipse Titan",
+    "attack": 9,
+    "defense": 9,
+    "rarity": "legendary",
+    "id": 20
+  }
+]
+

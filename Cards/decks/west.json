@@ -1,0 +1,72 @@
+[
+{
+    "name": "Deputy Dawes",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 91
+  },
+  {
+    "name": "Outlaw Blaze",
+    "attack": 6,
+    "defense": 2,
+    "rarity": "rare",
+    "id": 92
+  },
+  {
+    "name": "Cactus Charger",
+    "attack": 4,
+    "defense": 4,
+    "rarity": "common",
+    "id": 93
+  },
+  {
+    "name": "Whiskey Warden",
+    "attack": 5,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 94
+  },
+  {
+    "name": "Ghost Rider",
+    "attack": 7,
+    "defense": 2,
+    "rarity": "rare",
+    "id": 95
+  },
+  {
+    "name": "Saloon Sorceress",
+    "attack": 3,
+    "defense": 6,
+    "rarity": "common",
+    "id": 96
+  },
+  {
+    "name": "Dust Devil",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 97
+  },
+  {
+    "name": "Gold Rush Golem",
+    "attack": 6,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 98
+  },
+  {
+    "name": "High Noon Hunter",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 99
+  },
+  {
+    "name": "Bigfoot",
+    "attack": 9,
+    "defense": 4,
+    "rarity": "legendary",
+    "id": 100
+  }
+]

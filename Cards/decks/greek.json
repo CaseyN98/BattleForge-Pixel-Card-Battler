@@ -1,0 +1,73 @@
+[
+{
+    "name": "Hoplite Shieldbearer",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 81
+  },
+  {
+    "name": "Oracle of Delphi",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "common",
+    "id": 82
+  },
+  {
+    "name": "Labyrinth Scout",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 83
+  },
+  {
+    "name": "Aegean Raider",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 84
+  },
+  {
+    "name": "Dryad Whisperer",
+    "attack": 3,
+    "defense": 4,
+    "rarity": "common",
+    "id": 85
+  },
+  {
+    "name": "Spartan Flamecaller",
+    "attack": 6,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 86
+  },
+  {
+    "name": "Medusa's Fang",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 87
+  },
+  {
+    "name": "Cyclopean Forge",
+    "attack": 5,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 88
+  },
+  {
+    "name": "Chariot of Helios",
+    "attack": 4,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 89
+  },
+  {
+    "name": "Titan of Tartarus",
+    "attack": 9,
+    "defense": 5,
+    "rarity": "legendary",
+    "id": 90
+  }
+]
+

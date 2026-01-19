@@ -1,0 +1,73 @@
+[
+{
+    "name": "Mossback Scout",
+    "attack": 3,
+    "defense": 4,
+    "rarity": "common",
+    "id": 71
+  },
+  {
+    "name": "Thornhide Trickster",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 72
+  },
+  {
+    "name": "Fungal Forager",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "common",
+    "id": 73
+  },
+  {
+    "name": "Sapling Sentinel",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 74
+  },
+  {
+    "name": "Bramble Whisperer",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 75
+  },
+  {
+    "name": "Oakshade Warden",
+    "attack": 6,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 76
+  },
+  {
+    "name": "Grovefire Archer",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 77
+  },
+  {
+    "name": "Bogroot Shaman",
+    "attack": 5,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 78
+  },
+  {
+    "name": "Canopy Strider",
+    "attack": 4,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 79
+  },
+  {
+    "name": "Elderwood Colossus",
+    "attack": 8,
+    "defense": 8,
+    "rarity": "legendary",
+    "id": 80
+  }
+]
+

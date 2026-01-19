@@ -1,0 +1,75 @@
+[
+{
+    "name": "Goblin Gunner",
+    "attack": 8,
+    "defense": 3,
+    "rarity": "Rare",
+    "id": 1
+  },
+  {
+    "name": "Skeleton",
+    "attack": 7,
+    "defense": 4,
+    "rarity": "Common",
+    "id": 2
+  },
+  {
+    "name": "Respected Knight",
+    "attack": 6,
+    "defense": 2,
+    "rarity": "Common",
+    "id": 3
+  },
+  {
+    "name": "Orc Elite",
+    "attack": 9,
+    "defense": 1,
+    "rarity": "Rare",
+    "id": 4
+  },
+  {
+    "name": "Skeleton Magi",
+    "attack": 8,
+    "defense": 3,
+    "rarity": "Rare",
+    "id": 5
+  },
+  {
+    "name": "Goblin Archer",
+    "attack": 5,
+    "defense": 4,
+    "rarity": "Common",
+    "id": 6
+  },
+  {
+    "name": "Green Drake",
+    "attack": 6,
+    "defense": 3,
+    "rarity": "Rare",
+	"flavor_text": "Enemys beware the dragons fire!",
+	"element": "FIRE",
+    "id": 7
+  },
+  {
+    "name": "Shape Shifter",
+    "attack": 8,
+    "defense": 2,
+    "rarity": "Rare",
+    "id": 8
+  },
+  {
+    "name": "Frenzied Bat",
+    "attack": 4,
+    "defense": 1,
+    "rarity": "Common",
+    "id": 9
+  },
+  {
+    "name": "Rageborn Minotaur",
+    "attack": 10,
+    "defense": 4,
+    "rarity": "Legendary",
+    "id": 10
+  }
+]
+

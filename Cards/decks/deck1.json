@@ -1,0 +1,76 @@
+[
+{
+    "name": "Knight Commander",
+    "attack": 7,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 31
+  },
+  {
+    "name": "Healing Spirit",
+    "attack": 0,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 32
+  },
+  {
+    "name": "Dragon",
+    "attack": 9,
+    "defense": 5,
+    "rarity": "legendary",
+    "id": 33
+  },
+  {
+    "name": "Knight",
+    "attack": 5,
+    "defense": 3,
+    "rarity": "rare",
+    "abilities": [
+      "shatter"
+    ],
+    "id": 34
+  },
+  {
+    "name": "Spearman",
+    "attack": 4,
+    "defense": 5,
+    "rarity": "common",
+    "id": 35
+  },
+  {
+    "name": "Ogre",
+    "attack": 6,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 36
+  },
+  {
+    "name": "Lizardman",
+    "attack": 5,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 37
+  },
+  {
+    "name": "WereWolf",
+    "attack": 7,
+    "defense": 5,
+    "rarity": "common",
+    "id": 38
+  },
+  {
+    "name": "Goblin Leader",
+    "attack": 8,
+    "defense": 4,
+    "rarity": "legendary",
+    "id": 39
+  },
+  {
+    "name": "Shield Bearer",
+    "attack": 2,
+    "defense": 7,
+    "rarity": "common",
+    "id": 21
+  }
+]
+

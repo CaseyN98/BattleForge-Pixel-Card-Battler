@@ -1,0 +1,73 @@
+[
+{
+    "name": "Duriel, Lord of Pain",
+    "attack": 10,
+    "defense": 3,
+    "rarity": "legendary",
+    "id": 51
+  },
+  {
+    "name": "Hellfang Wolf",
+    "attack": 6,
+    "defense": 2,
+    "rarity": "common",
+    "id": 52
+  },
+  {
+    "name": "Flame Imp",
+    "attack": 5,
+    "defense": 1,
+    "rarity": "common",
+    "id": 53
+  },
+  {
+    "name": "Druidic Mauler",
+    "attack": 6,
+    "defense": 3,
+    "rarity": "common",
+    "id": 54
+  },
+  {
+    "name": "Corrupted Naiad",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 55
+  },
+  {
+    "name": "Bloodmoor Scout",
+    "attack": 4,
+    "defense": 4,
+    "rarity": "common",
+    "id": 56
+  },
+  {
+    "name": "Vizjerei Warlock",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 57
+  },
+  {
+    "name": "Fallen Templar",
+    "attack": 8,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 58
+  },
+  {
+    "name": "Corrupted Naiad",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "rare",
+    "id": 59
+  },
+  {
+    "name": "Spirit of Andariel",
+    "attack": 1,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 60
+  }
+]
+

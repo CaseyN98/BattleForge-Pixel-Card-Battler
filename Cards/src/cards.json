@@ -1,0 +1,704 @@
+[
+  {
+    "name": "Blazing Warg",
+    "attack": 8,
+    "defense": 3,
+    "rarity": "Rare",
+    "id": 1
+  },
+  {
+    "name": "Stormblade Adept",
+    "attack": 7,
+    "defense": 4,
+    "rarity": "Common",
+    "id": 2
+  },
+  {
+    "name": "Goblin Berserker",
+    "attack": 6,
+    "defense": 2,
+    "rarity": "Common",
+    "id": 3
+  },
+  {
+    "name": "Ashfang Raider",
+    "attack": 9,
+    "defense": 1,
+    "rarity": "Rare",
+    "id": 4
+  },
+  {
+    "name": "Wildclaw Ravager",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "Rare",
+    "id": 5
+  },
+  {
+    "name": "Flame Imp",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "Common",
+    "id": 6
+  },
+  {
+    "name": "Bonecrusher Drake",
+    "attack": 6,
+    "defense": 3,
+    "rarity": "Rare",
+    "id": 7
+  },
+  {
+    "name": "Hellthorn Charger",
+    "attack": 8,
+    "defense": 2,
+    "rarity": "Rare",
+    "id": 8
+  },
+  {
+    "name": "Emberling Scout",
+    "attack": 4,
+    "defense": 1,
+    "rarity": "Common",
+    "abilities": [
+      "shatter"
+    ],
+    "id": 9
+  },
+  {
+    "name": "Rageborn Minotaur",
+    "attack": 10,
+    "defense": 4,
+    "rarity": "Legendary",
+    "id": 10
+  },
+  {
+    "name": "Rusted Revolver",
+    "attack": 3,
+    "defense": 4,
+    "rarity": "common",
+    "id": 11
+  },
+  {
+    "name": "Lantern Wraith",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "common",
+    "id": 12
+  },
+  {
+    "name": "Graveyard Gambler",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 13
+  },
+  {
+    "name": "Tumbleweed Tactician",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 14
+  },
+  {
+    "name": "Arcane Armadillo",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 15
+  },
+  {
+    "name": "Hexbrand Marshal",
+    "attack": 6,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 16
+  },
+  {
+    "name": "Blood Moon Bandit",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 17
+  },
+  {
+    "name": "Ghoulsmith",
+    "attack": 5,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 18
+  },
+  {
+    "name": "Obsidian Outrider",
+    "attack": 4,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 19
+  },
+  {
+    "name": "Eclipse Titan",
+    "attack": 9,
+    "defense": 9,
+    "rarity": "legendary",
+    "id": 20
+  },
+  {
+    "name": "Shield Bearer",
+    "attack": 2,
+    "defense": 7,
+    "rarity": "Common",
+    "id": 21
+  },
+  {
+    "name": "Mystic Barrier",
+    "attack": 1,
+    "defense": 9,
+    "rarity": "Rare",
+    "id": 22
+  },
+  {
+    "name": "Healing Spirit",
+    "attack": 0,
+    "defense": 7,
+    "rarity": "Common",
+    "id": 23
+  },
+  {
+    "name": "Ironwood Sentinel",
+    "attack": 3,
+    "defense": 8,
+    "rarity": "Rare",
+    "id": 24
+  },
+  {
+    "name": "Stonehide Tortoise",
+    "attack": 1,
+    "defense": 9,
+    "rarity": "Rare",
+    "id": 25
+  },
+  {
+    "name": "Frostweaver",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "Common",
+    "id": 26
+  },
+  {
+    "name": "Aurora Priest",
+    "attack": 1,
+    "defense": 5,
+    "rarity": "Rare",
+    "id": 27
+  },
+  {
+    "name": "Knight Guardian",
+    "attack": 4,
+    "defense": 6,
+    "rarity": "Common",
+    "id": 28
+  },
+  {
+    "name": "Sanctum Watcher",
+    "attack": 2,
+    "defense": 7,
+    "rarity": "Rare",
+    "id": 29
+  },
+  {
+    "name": "Warden of the Vale",
+    "attack": 3,
+    "defense": 9,
+    "rarity": "Legendary",
+    "id": 30
+  },
+  {
+    "name": "Knight Commander",
+    "attack": 7,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 31
+  },
+  {
+    "name": "Healing Spirit",
+    "attack": 0,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 32
+  },
+  {
+    "name": "Dragon",
+    "attack": 9,
+    "defense": 5,
+    "rarity": "legendary",
+    "id": 33
+  },
+  {
+    "name": "Knight",
+    "attack": 5,
+    "defense": 3,
+    "rarity": "rare",
+    "abilities": [
+      "shatter"
+    ],
+    "id": 34
+  },
+  {
+    "name": "Spearman",
+    "attack": 4,
+    "defense": 5,
+    "rarity": "common",
+    "id": 35
+  },
+  {
+    "name": "Ogre",
+    "attack": 6,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 36
+  },
+  {
+    "name": "Lizardman",
+    "attack": 5,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 37
+  },
+  {
+    "name": "WereWolf",
+    "attack": 7,
+    "defense": 5,
+    "rarity": "common",
+    "id": 38
+  },
+  {
+    "name": "Goblin Leader",
+    "attack": 8,
+    "defense": 4,
+    "rarity": "legendary",
+    "id": 39
+  },
+  {
+    "name": "Sea Serpent",
+    "attack": 8,
+    "defense": 5,
+    "rarity": "legendary",
+    "id": 41
+  },
+  {
+    "name": "Warlock",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 42
+  },
+  {
+    "name": "Archer",
+    "attack": 3,
+    "defense": 6,
+    "rarity": "common",
+    "id": 43
+  },
+  {
+    "name": "Wolf",
+    "attack": 4,
+    "defense": 2,
+    "rarity": "common",
+    "id": 44
+  },
+  {
+    "name": "Giant",
+    "attack": 8,
+    "defense": 6,
+    "rarity": "legendary",
+    "id": 45
+  },
+  {
+    "name": "Water Sprite",
+    "attack": 3,
+    "defense": 1,
+    "rarity": "rare",
+    "id": 46
+  },
+  {
+    "name": "WereBear",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "common",
+    "id": 47
+  },
+  {
+    "name": "Fire Sprite",
+    "attack": 3,
+    "defense": 1,
+    "rarity": "common",
+    "id": 48
+  },
+  {
+    "name": "Knight Commander",
+    "attack": 7,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 49
+  },
+  {
+    "name": "Healing Spirit",
+    "attack": 0,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 50
+  },
+  {
+    "name": "Duriel, Lord of Pain",
+    "attack": 10,
+    "defense": 3,
+    "rarity": "legendary",
+    "id": 51
+  },
+  {
+    "name": "Hellfang Wolf",
+    "attack": 6,
+    "defense": 2,
+    "rarity": "common",
+    "id": 52
+  },
+  {
+    "name": "Flame Imp",
+    "attack": 5,
+    "defense": 1,
+    "rarity": "common",
+    "id": 53
+  },
+  {
+    "name": "Druidic Mauler",
+    "attack": 6,
+    "defense": 3,
+    "rarity": "common",
+    "id": 54
+  },
+  {
+    "name": "Corrupted Naiad",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 55
+  },
+  {
+    "name": "Bloodmoor Scout",
+    "attack": 4,
+    "defense": 4,
+    "rarity": "common",
+    "id": 56
+  },
+  {
+    "name": "Vizjerei Warlock",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 57
+  },
+  {
+    "name": "Fallen Templar",
+    "attack": 8,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 58
+  },
+  {
+    "name": "Corrupted Naiad",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "rare",
+    "id": 59
+  },
+  {
+    "name": "Spirit of Andariel",
+    "attack": 1,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 60
+  },
+  {
+    "name": "Pharaoh's Guard",
+    "attack": 3,
+    "defense": 6,
+    "rarity": "common",
+    "id": 61
+  },
+  {
+    "name": "Scarab Swarm",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 62
+  },
+  {
+    "name": "Eye of Horus",
+    "attack": 2,
+    "defense": 8,
+    "rarity": "rare",
+    "abilities": [
+      "GodsWill"
+    ],
+    "id": 63
+  },
+  {
+    "name": "Sands of Time",
+    "attack": 5,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 64
+  },
+  {
+    "name": "Anubis Stalker",
+    "attack": 6,
+    "defense": 2,
+    "rarity": "common",
+    "id": 65
+  },
+  {
+    "name": "Ra's Wrath",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 66
+  },
+  {
+    "name": "Osiris Reborn",
+    "attack": 3,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 67
+  },
+  {
+    "name": "Curse of the Nile",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 68
+  },
+  {
+    "name": "Desert Nomad",
+    "attack": 4,
+    "defense": 4,
+    "rarity": "common",
+    "id": 69
+  },
+  {
+    "name": "Golden Sphinx",
+    "attack": 9,
+    "defense": 6,
+    "rarity": "legendary",
+    "id": 70
+  },
+  {
+    "name": "Mossback Scout",
+    "attack": 3,
+    "defense": 4,
+    "rarity": "common",
+    "id": 71
+  },
+  {
+    "name": "Thornhide Trickster",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 72
+  },
+  {
+    "name": "Fungal Forager",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "common",
+    "id": 73
+  },
+  {
+    "name": "Sapling Sentinel",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 74
+  },
+  {
+    "name": "Bramble Whisperer",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 75
+  },
+  {
+    "name": "Oakshade Warden",
+    "attack": 6,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 76
+  },
+  {
+    "name": "Grovefire Archer",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 77
+  },
+  {
+    "name": "Bogroot Shaman",
+    "attack": 5,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 78
+  },
+  {
+    "name": "Canopy Strider",
+    "attack": 4,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 79
+  },
+  {
+    "name": "Elderwood Colossus",
+    "attack": 8,
+    "defense": 8,
+    "rarity": "legendary",
+    "id": 80
+  },
+  {
+    "name": "Hoplite Shieldbearer",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 81
+  },
+  {
+    "name": "Oracle of Delphi",
+    "attack": 2,
+    "defense": 6,
+    "rarity": "common",
+    "id": 82
+  },
+  {
+    "name": "Labyrinth Scout",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 83
+  },
+  {
+    "name": "Aegean Raider",
+    "attack": 5,
+    "defense": 2,
+    "rarity": "common",
+    "id": 84
+  },
+  {
+    "name": "Dryad Whisperer",
+    "attack": 3,
+    "defense": 4,
+    "rarity": "common",
+    "id": 85
+  },
+  {
+    "name": "Spartan Flamecaller",
+    "attack": 6,
+    "defense": 4,
+    "rarity": "rare",
+    "id": 86
+  },
+  {
+    "name": "Medusa's Fang",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 87
+  },
+  {
+    "name": "Cyclopean Forge",
+    "attack": 5,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 88
+  },
+  {
+    "name": "Chariot of Helios",
+    "attack": 4,
+    "defense": 7,
+    "rarity": "rare",
+    "id": 89
+  },
+  {
+    "name": "Titan of Tartarus",
+    "attack": 9,
+    "defense": 5,
+    "rarity": "legendary",
+    "id": 90
+  },
+  {
+    "name": "Deputy Dawes",
+    "attack": 3,
+    "defense": 5,
+    "rarity": "common",
+    "id": 91
+  },
+  {
+    "name": "Outlaw Blaze",
+    "attack": 6,
+    "defense": 2,
+    "rarity": "rare",
+    "id": 92
+  },
+  {
+    "name": "Cactus Charger",
+    "attack": 4,
+    "defense": 4,
+    "rarity": "common",
+    "id": 93
+  },
+  {
+    "name": "Whiskey Warden",
+    "attack": 5,
+    "defense": 3,
+    "rarity": "rare",
+    "id": 94
+  },
+  {
+    "name": "Ghost Rider",
+    "attack": 7,
+    "defense": 2,
+    "rarity": "rare",
+    "id": 95
+  },
+  {
+    "name": "Saloon Sorceress",
+    "attack": 3,
+    "defense": 6,
+    "rarity": "common",
+    "id": 96
+  },
+  {
+    "name": "Dust Devil",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "id": 97
+  },
+  {
+    "name": "Gold Rush Golem",
+    "attack": 6,
+    "defense": 6,
+    "rarity": "rare",
+    "id": 98
+  },
+  {
+    "name": "High Noon Hunter",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "rare",
+    "id": 99
+  },
+  {
+    "name": "Bigfoot",
+    "attack": 9,
+    "defense": 4,
+    "rarity": "legendary",
+    "id": 100
+  }
+]

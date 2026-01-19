@@ -1,0 +1,122 @@
+[
+  {
+    "id": 9,
+    "name": "Emberling Scout",
+    "attack": 4,
+    "defense": 1,
+    "rarity": "common",
+    "abilities": [
+      "shatter"
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 93,
+    "name": "Cactus Charger",
+    "attack": 4,
+    "defense": 4,
+    "rarity": "common",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 48,
+    "name": "Fire Sprite",
+    "attack": 3,
+    "defense": 1,
+    "rarity": "common",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 43,
+    "name": "Archer",
+    "attack": 3,
+    "defense": 6,
+    "rarity": "common",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 13,
+    "name": "Graveyard Gambler",
+    "attack": 4,
+    "defense": 3,
+    "rarity": "common",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 77,
+    "name": "Grovefire Archer",
+    "attack": 7,
+    "defense": 3,
+    "rarity": "rare",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 27,
+    "name": "Aurora Priest",
+    "attack": 1,
+    "defense": 5,
+    "rarity": "rare",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 18,
+    "name": "Ghoulsmith",
+    "attack": 5,
+    "defense": 6,
+    "rarity": "rare",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 68,
+    "name": "Curse of the Nile",
+    "attack": 5,
+    "defense": 5,
+    "rarity": "rare",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  },
+  {
+    "id": 100,
+    "name": "Bigfoot",
+    "attack": 9,
+    "defense": 4,
+    "rarity": "legendary",
+    "abilities": [
+
+    ],
+    "element": null,
+    "flavor_text": ""
+  }
+]
