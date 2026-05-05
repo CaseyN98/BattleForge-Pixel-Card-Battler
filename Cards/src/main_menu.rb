@@ -28,8 +28,9 @@ class MainMenu
 
   def draw_background
     # Simple vertical gradient
-    top_color = Gosu::Color.argb(0xff1e1e2f)
-    bottom_color = Gosu::Color.argb(0xff0d0d14)
+top_color    = Gosu::Color.argb(0xff1a3b1a)  # deep moss green
+bottom_color = Gosu::Color.argb(0xff2a3318)  # almost-black green
+
 
     Gosu.draw_quad(
       0, 0, top_color,
@@ -54,7 +55,7 @@ class MainMenu
   def draw_buttons
     @buttons.each do |btn|
       color = btn.hover ? Gosu::Color::GRAY : Gosu::Color::argb(0xff444444)
-      border = Gosu::Color::argb(0xff888888)
+      border = Gosu::Color::argb(0xff00ff66)
 
       # Button background
       Gosu.draw_rect(btn.x, btn.y, btn.width, btn.height, color, 1)
